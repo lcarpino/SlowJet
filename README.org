@@ -1,0 +1,5 @@
+#+TITLE: SlowJet
+#+AUTHOR: Luke Arpino
+
+SlowJet is a Mathematica package for visualising and performing analytic
+calculations with jet algorithms.

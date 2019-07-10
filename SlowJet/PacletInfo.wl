@@ -1,0 +1,3 @@
+Paclet[
+        Name -> "SlowJet"
+]
