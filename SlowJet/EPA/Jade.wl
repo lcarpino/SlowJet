@@ -2,7 +2,7 @@
 
 (* ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ *)
 
-(* :Title: jade *)
+(* :Title: Jade *)
 
 (* :Author: *)
 
@@ -10,7 +10,7 @@
 
 (* ------------------------------------------------------------------------ *)
 
-BeginPackage["SlowJet`epa`jade`"]
+BeginPackage["SlowJet`EPA`Jade`"]
 
   y23JadeTwoJetX::usage = "y23JadeTwoJetX[ycut, x1, x2] returns 1 if the point (x1, x2) is inside the two-jet region and 0 if the point (x1, x2) is outside the two-jet region"
   y23JadeThreeJetX::usage = "y23JadeThreeJetX[ycut, x1, x2] returns 1 if the point (x1, x2) is inside the three-jet region and 0 if the point (x1, x2) is outside the three-jet region"

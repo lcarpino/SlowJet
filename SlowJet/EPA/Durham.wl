@@ -2,7 +2,7 @@
 
 (* ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ *)
 
-(* :Title: durham *)
+(* :Title: Durham *)
 
 (* :Author: *)
 
@@ -10,7 +10,7 @@
 
 (* ------------------------------------------------------------------------ *)
 
-BeginPackage["SlowJet`epa`durham`"]
+BeginPackage["SlowJet`EPA`Durham`"]
 
   y23DurhamTwoJetX::usage = "y23DurhamTwoJetX[ycut, x1, x2] returns 1 if the point (x1, x2) is inside the two-jet region and 0 if the point (x1, x2) is outside the two-jet region"
   y23DurhamThreeJetX::usage = "y23DurhamThreeJetX[ycut, x1, x2] returns 1 if the point (x1, x2) is inside the three-jet region and 0 if the point (x1, x2) is outside the three-jet region"
