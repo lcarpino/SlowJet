@@ -28,6 +28,14 @@ BeginPackage["SlowJet`EPA`Durham`"]
 
   Begin["`Private`"]
 
+    Options[y23Durham] =
+      {
+        "jets" -> 3,
+        "variables" -> "yij"
+      };
+
+    (* y23Durham[ycut_, ] :=  *)
+
     (* Durham algorithm in terms of x_i variables *)
 
     y23DurhamTwoJetX[ycut_, x1_, x2_] := Module[
